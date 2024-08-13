@@ -1,0 +1,70 @@
+{
+  "weddingThemes": [
+    {
+      "id": 1,
+      "themeName": "Classic Wedding",
+      "weddingDescription": "Our classic weddings are designed to exude timeless sophistication and elegance. We start by selecting a luxurious venue, such as a ballroom or a stately garden. The decor is refined, with lush floral arrangements, crystal chandeliers, and a palette of whites, creams, and soft pastels. The bride wears a traditional full-length gown, while the groom is dressed in a black or navy tuxedo. To complete the classic feel, we offer services like a string quartet for the ceremony, a formal sit-down dinner with gourmet cuisine, and a multi-tiered wedding cake. Luxury transportation, such as a horse-drawn carriage, adds the final touch of grandeur."
+    },
+    {
+      "id": 2,
+      "themeName": "Vintage Wedding",
+      "weddingDescription": "Our vintage weddings capture the essence of a bygone era, blending nostalgic charm with timeless elegance. We begin by selecting a historic venue, like a grand estate or a rustic barn, that sets the perfect backdrop. The decor includes antique furniture, lace tablecloths, and vintage china, all in soft, muted tones like blush, sepia, and dusty blue. The bride and groom are dressed in classic attire, with lace gowns and tailored suits. To enhance the experience, we offer vintage cars, live music with a retro vibe, and even a vintage photo booth for guests to enjoy."
+    },
+    {
+      "id": 3,
+      "themeName": "Beach Wedding",
+      "weddingDescription": "For a beach wedding, we embrace the natural beauty of the oceanfront, creating a laid-back yet stylish setting. We choose a stunning beach location and decorate with elements like driftwood, seashells, and tropical flowers. The color palette is inspired by the sea, featuring shades of blue, ivory, and coral. The bride and groom wear lightweight, beach-appropriate attire, often opting for barefoot ceremonies. We arrange a beachfront reception complete with seafood dishes, tropical cocktails, and entertainment like a live acoustic band or a bonfire to end the night."
+    }
+  ],
+  "officeHours": [
+    {
+      "id": 1,
+      "dayOfWeek": "Monday",
+      "openingTime": "09:00",
+      "closingTime": "17:00",
+      "isClosed": false
+    },
+    {
+      "id": 2,
+      "dayOfWeek": "Tuesday",
+      "openingTime": "09:00",
+      "closingTime": "17:00",
+      "isClosed": false
+    },
+    {
+      "id": 3,
+      "dayOfWeek": "Wednesday",
+      "openingTime": "09:00",
+      "closingTime": "17:00",
+      "isClosed": false
+    },
+    {
+      "id": 4,
+      "dayOfWeek": "Thursday",
+      "openingTime": "09:00",
+      "closingTime": "17:00",
+      "isClosed": false
+    },
+    {
+      "id": 5,
+      "dayOfWeek": "Friday",
+      "openingTime": "09:00",
+      "closingTime": "17:00",
+      "isClosed": false
+    },
+    {
+      "id": 6,
+      "dayOfWeek": "Saturday",
+      "openingTime": "10:00",
+      "closingTime": "14:00",
+      "isClosed": false
+    },
+    {
+      "id": 7,
+      "dayOfWeek": "Sunday",
+      "openingTime": "00:00",
+      "closingTime": "00:00",
+      "isClosed": true
+    }
+  ]
+}
